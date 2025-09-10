@@ -2,7 +2,7 @@ import pyttsx3
 import PyPDF2
 
 audio_reader = pyttsx3.init()
-pdf_reader = PyPDF2.PdfReader('text1.pdf', 'rb')
+pdf_reader = PyPDF2.PdfReader('text.pdf', 'rb')
 for i in range(len(pdf_reader.pages) ):
   text = pdf_reader.pages[i].extract_text()
   legible_text = text.strip().replace('\n',' ')
