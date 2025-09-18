@@ -1,0 +1,6 @@
+CustomerID,FirstName,LastName,Company,Email,City,Country
+CUST001,Liam,Smith,Aus Builders,liam.smith@ausbuilders.com.au,Melbourne,Australia
+CUST002,Olivia,Jones,Sydney Tech,olivia.jones@sydtech.com.au,Sydney,Australia
+CUST004,Emma,Brown,Perth Data,emma.brown@perthdata.com.au,Perth,AustraliaCUST003,Noah,Williams,Brisbane Solutions,noah.williams@brisbane.solutions.net,Brisbane,Australia
+CUST003,Noah,Williams,Brisbane Solutions,noah.williams@brisbane.solutions.net,Brisbane,Australia
+CUST003,Noah,Williams,Brisbane Solutions,noah.williams@brisbane.solutions.net,Brisbane,Australia
